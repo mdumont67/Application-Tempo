@@ -5,8 +5,7 @@ le bilan de la saison, et envoie une notification le matin et/ou le soir.
 
 ## Télécharger
 
-👉 **[Télécharger la dernière version (tempo.apk)](https://github.com/mdumont67/tempo/releases/latest/download/tempo.apk)**
-
+👉 **[Télécharger la dernière version (tempo.apk)](https://github.com/mdumont67/Application-Tempo/releases/latest/download/tempo.apk)**
 ## Installer
 
 1. Ouvrir le lien ci-dessus depuis le téléphone et télécharger le fichier.
